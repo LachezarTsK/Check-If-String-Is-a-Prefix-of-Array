@@ -1,9 +1,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func isPrefixString(prefix string, words []string) bool {
 	indexPrefix := 0
